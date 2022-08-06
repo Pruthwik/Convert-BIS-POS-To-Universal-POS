@@ -1,0 +1,19 @@
+{ 
+	"N_NN|N_NST|N_NNV": "NOUN",
+	"N_NNP": "PROPN",
+	"PR.+": "PRON",
+	"DM.+": "DET",
+	"V_VM.*": "VERB",
+	"V_VAUX.*": "AUX",
+	"JJ|QT_QTF|RP_INTF": "ADJ",
+	"RP_RPD": "PART",
+	"RB": "ADV",
+	"PSP": "ADP",
+	"RP_INJ": "INTJ",
+	"CC_CCS": "SCONJ",
+	"CC_CCD": "CCONJ",
+	"QT_QTC": "NUM",
+	"RD_PUNC": "PUNCT",
+	"RD_SYM": "SYM",
+	"RP_NEG|CC_CCS_UT|RD_ECH|RD_UNK|RP_CL|RD_RDF|QT_QTO": "X"
+}
